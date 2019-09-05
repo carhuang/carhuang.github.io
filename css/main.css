@@ -6,5 +6,5 @@ h1 {
     margin:0;
 }
 .uk-heading-medium {
-    display: inline;
+    margin: 0 0 0 0 !important;
 }
