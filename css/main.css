@@ -1,3 +1,6 @@
 body {
     font-family: 'Karla', sans-serif;
 }
+.uk-heading-medium {
+    margin-bottom: 0 !important;
+}
