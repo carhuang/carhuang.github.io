@@ -2,9 +2,10 @@ body {
     font-family: 'Karla', sans-serif;
 }
 h1 {
-    padding:0;
-    margin:0;
+    padding:0 !important;
+    margin:0 !important;
 }
 .uk-heading-medium {
-    margin: 0 0 0 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
 }
