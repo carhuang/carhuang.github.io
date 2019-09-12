@@ -4,3 +4,7 @@ body {
 .uk-heading-medium {
     margin-bottom: 0 !important;
 }
+
+.uk-card-image-badge {
+    top: 180px !important;
+}
