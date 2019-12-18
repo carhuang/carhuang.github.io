@@ -1,0 +1,15 @@
+a.fas, a.fab {
+  padding: 8px;
+}
+
+#project-header {
+  color: #fod200 !important;
+}
+
+@media (min-width: 768px) {
+  .container-middle-small {
+    width: 60%;
+    margin: auto;
+  }
+}
+
